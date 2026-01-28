@@ -11,4 +11,7 @@ A simple task tracker built using HTML, CSS and JavaScript
   - JavaScript
 
   ## How to run
-  Just open 'index.html' in your browser  
+  Just open 'index.html' in your browser
+
+  ## Live Demo
+  https://tanishka-123-code.github.io/task-tracker/
